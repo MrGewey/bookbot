@@ -1,3 +1,4 @@
+import sys
 from stats import count_words
 from stats import count_all
 from stats import report
